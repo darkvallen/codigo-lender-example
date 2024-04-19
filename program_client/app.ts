@@ -28,7 +28,7 @@ import {
     });
   
     // TODO: Specify the smart contract Program Id we saved from when we deploy the smart contract
-    const progId = new PublicKey("972wshsufaoELnHr1yP9Tgu5wBTiLwyQknXVvABvLqy1");
+    const progId = new PublicKey("PASTE_YOUR_PROGRAM_ID_HERE");
   
     initializeClient(progId, connection);
   
